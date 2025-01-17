@@ -18,3 +18,9 @@ We try to make CMD commands as easy as possible for you Guys.
 So also here. We´re trying to get an User Interface as soon as possible. 
 This Project was started on 13.01.2025 so be kind.
 If you dont like anything or even like something, you can allways contact me.
+
+
+
+![Alternativtext](https://github.com/L187s/WCFN/blob/main/Images/WCNF%20image_1.png "GUI Showcase")
+![Alternativtext](https://github.com/L187s/WCFN/blob/main/Images/WCNF%20image_2.png "Possible Cmd Commands")
+![Alternativtext](https://github.com/L187s/WCFN/blob/main/Images/WCNF%20image_3.png "Running Command")
